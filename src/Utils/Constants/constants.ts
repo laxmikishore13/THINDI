@@ -1,0 +1,1 @@
+export const SEARCH_RESTAUTANTS = `https://www.swiggy.com/dapi/restaurants/list/v5?lat=15.8326429&lng=78.0330944&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING`

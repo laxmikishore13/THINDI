@@ -1,0 +1,15 @@
+main {
+  max-width: 1286px;
+  padding: 16px;
+}
+
+.search_container {
+  padding: 5px 5px;
+  margin: 10px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: cen;
+  align-items: center;
+  width: 300px;
+  border: 1px solid #ddd;
+}

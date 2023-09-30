@@ -1,0 +1,38 @@
+header {
+  position: fixed;
+  top: 0;
+  height: 80px;
+  width: 100%;
+  box-shadow: 0 15px 40px -20px rgba(40, 44, 63, 0.15);
+  background: #fff;
+  z-index: 9999;
+}
+
+li {
+  list-style-type: none;
+}
+
+.header-container {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 30px;
+}
+
+.header-link-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.header-links {
+  font-size: large;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.header-links:hover {
+  background-color: #fcfcfc;
+  border-radius: 10px;
+}
